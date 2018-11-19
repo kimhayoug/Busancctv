@@ -1,0 +1,16 @@
+<response>
+    <header>
+        <resultCode>00</resultCode>
+        <resultMag>NaORMAL SERVICE. </resultMag>
+        </header>
+    <body>
+        <items>
+            <address/>
+            <area>해동초등학교-여상오거리(우1동 394-20)</area>
+            <charge/>
+            <dong>우1</dong>
+            <seql>1</seql>
+            <use>어린이 보호</use>
+            </item>
+        </body>
+    </response>

@@ -12,6 +12,8 @@
 		FD7EAE7F21A286F60078F09B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD7EAE7D21A286F60078F09B /* Main.storyboard */; };
 		FD7EAE8121A286F80078F09B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD7EAE8021A286F80078F09B /* Assets.xcassets */; };
 		FD7EAE8421A286F80078F09B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD7EAE8221A286F80078F09B /* LaunchScreen.storyboard */; };
+		FD7EAE9021A28BC90078F09B /* ctv.xml in Resources */ = {isa = PBXBuildFile; fileRef = FD7EAE8F21A28BC90078F09B /* ctv.xml */; };
+		FD7EAE9621A292C60078F09B /* cctv.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD7EAE9521A292C60078F09B /* cctv.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		FD7EAE8021A286F80078F09B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD7EAE8321A286F80078F09B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD7EAE8521A286F80078F09B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD7EAE8F21A28BC90078F09B /* ctv.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ctv.xml; sourceTree = "<group>"; };
+		FD7EAE9521A292C60078F09B /* cctv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cctv.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				FD7EAE8021A286F80078F09B /* Assets.xcassets */,
 				FD7EAE8221A286F80078F09B /* LaunchScreen.storyboard */,
 				FD7EAE8521A286F80078F09B /* Info.plist */,
+				FD7EAE8F21A28BC90078F09B /* ctv.xml */,
+				FD7EAE9521A292C60078F09B /* cctv.swift */,
 			);
 			path = Busancctv;
 			sourceTree = "<group>";
@@ -125,6 +131,7 @@
 				FD7EAE8421A286F80078F09B /* LaunchScreen.storyboard in Resources */,
 				FD7EAE8121A286F80078F09B /* Assets.xcassets in Resources */,
 				FD7EAE7F21A286F60078F09B /* Main.storyboard in Resources */,
+				FD7EAE9021A28BC90078F09B /* ctv.xml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD7EAE9621A292C60078F09B /* cctv.swift in Sources */,
 				FD7EAE7C21A286F60078F09B /* ViewController.swift in Sources */,
 				FD7EAE7A21A286F60078F09B /* AppDelegate.swift in Sources */,
 			);
