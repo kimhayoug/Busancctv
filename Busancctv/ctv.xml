@@ -1,16 +1,93 @@
 <response>
     <header>
         <resultCode>00</resultCode>
-        <resultMag>NaORMAL SERVICE. </resultMag>
-        </header>
+        <resultMsg>NORMAL SERVICE.</resultMsg>
+    </header>
     <body>
         <items>
-            <address/>
-            <area>해동초등학교-여상오거리(우1동 394-20)</area>
-            <charge/>
-            <dong>우1</dong>
-            <seql>1</seql>
-            <use>어린이 보호</use>
+            <item>
+                <address/>
+                <area>해동초등학교~여상오거리(우1동 394-20)</area>
+                <charge/>
+                <dong>우1</dong>
+                <seq>1</seq>
+                <use>어린이보호</use>
             </item>
-        </body>
-    </response>
+            <item>
+                <address/>
+                <area>해강초등학교~부산은행(우동 1388-1)</area>
+                <charge/>
+                <dong>우1</dong>
+                <seq>2</seq>
+                <use>어린이보호</use>
+            </item>
+            <item>
+                <address/>
+                <area>수비교차로~우동 굴다리(우동 1087-55)</area>
+                <charge/>
+                <dong>우2</dong>
+                <seq>3</seq>
+                <use>방범용</use>
+            </item>
+            <item>
+                <address/>
+                <area>햇살공원 주변(좌동초교 주변) (좌1동1293주변)</area>
+                <charge/>
+                <dong>좌1</dong>
+                <seq>4</seq>
+                <use>도시공원</use>
+            </item>
+            <item>
+                <address/>
+                <area>쥬노빌오피스텔 주변(장산 10번출구 맞은편)(좌1동1458-5주변)</area>
+                <charge/>
+                <dong>좌1</dong>
+                <seq>5</seq>
+                <use>방범용</use>
+            </item>
+            <item>
+                <address/>
+                <area>부흥초등학교(좌동 1303)</area>
+                <charge/>
+                <dong>좌2</dong>
+                <seq>6</seq>
+                <use>어린이보호</use>
+            </item>
+            <item>
+                <address/>
+                <area>푸른공원(대천로 53번길 주변)</area>
+                <charge/>
+                <dong>좌3</dong>
+                <seq>7</seq>
+                <use>도시공원</use>
+            </item>
+            <item>
+                <address/>
+                <area>부흥초등학교 주변(좌동 1303)</area>
+                <charge/>
+                <dong>좌4</dong>
+                <seq>8</seq>
+                <use>어린이보호</use>
+            </item>
+            <item>
+                <address/>
+                <area>영산대학교 위 반송어린이집 앞(반송3 250-2831)</area>
+                <charge/>
+                <dong>반송3</dong>
+                <seq>9</seq>
+                <use>어린이보호</use>
+            </item>
+            <item>
+                <address/>
+                <area>재송시장 농협 아랫길(재송1동 1090-1번지 주변)</area>
+                <charge/>
+                <dong>재송1</dong>
+                <seq>10</seq>
+                <use>방범용</use>
+            </item>
+        </items>
+        <numOfRows>10</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>182</totalCount>
+    </body>
+</response>
